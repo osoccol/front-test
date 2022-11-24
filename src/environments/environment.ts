@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  client_id: '275268663789-9nt3eguj3l2qg1qqfg68igq7uqmau9bu.apps.googleusercontent.com'
+  client_id: 'VOTRE_CLIENT_ID'
 };
 
 /*
